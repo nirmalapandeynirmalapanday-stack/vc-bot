@@ -1,5 +1,5 @@
 pyrogram==2.0.106
-pytgcalls==3.0.0.dev28
+pytgcalls==2.2.12
 tgcrypto
 aiohttp
 ffmpeg-python
